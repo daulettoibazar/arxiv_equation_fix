@@ -1,0 +1,1 @@
+# This repo contains scripts that were used to clean and refine the standalone LaTeX equations from Arxiv sources
